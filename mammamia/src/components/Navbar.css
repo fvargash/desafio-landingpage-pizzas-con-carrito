@@ -1,0 +1,13 @@
+.active{
+    text-decoration: underline;
+    color: green;
+    font-weight: bolder;
+    margin: 5px;
+}
+
+.noactive{
+    color: lightgray;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 5px;
+}
